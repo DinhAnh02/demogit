@@ -1,0 +1,30 @@
+
+.navigation {
+    border-top: 1rem solid #3b3b3b;
+    border-bottom: 1rem solid #3b3b3b;
+    align-items: center;
+
+}
+
+.total {
+    display: none;
+}
+
+.footer {
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.map :first-child {
+    width: 36rem;
+    height: 144rem;
+    margin-right: 250rem;
+    margin-top: 276rem;
+}
+
+.map :last-child {
+    width: 698rem;
+    height: 624rem;
+    margin-top: 72rem;
+}
