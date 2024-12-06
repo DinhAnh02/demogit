@@ -100,6 +100,52 @@ body {
     height: 36rem;
 }
 
+.floor p {
+    position: absolute;
+    top: 21rem;
+    right: 44rem;
+    padding: 0 12rem;
+    background-color: white;
+}
+
+.icon_down {
+    margin: 0 auto;
+    margin-top: 18rem;
+    display: block;
+    width: 36rem;
+    height: 12rem;
+}
+
+.numberoffloors {
+    padding: 18rem 0;
+    border-bottom: 1rem solid #3b3b3b;
+    border-top: 1rem solid #3b3b3b;
+}
+
+.img_room {
+    width: 162rem;
+    height: 162rem;
+}
+
+.description {
+    color: white;
+    text-align: end;
+}
+
+.icon_contact {
+    width: 18rem;
+    height: 18rem
+}
+
+.description h2 {
+    font-size: 24rem;
+}
+
+.room:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+
 .map {
     display: flex;
 }
