@@ -28,3 +28,21 @@
     height: 624rem;
     margin-top: 72rem;
 }
+
+.description {
+    color: white;
+    text-align: end;
+}
+
+.icon_contact {
+    width: 18rem;
+    height: 18rem
+}
+
+.description h2 {
+    font-size: 24rem;
+}
+
+.room:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+}
